@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="+Alicorn+2+" modversion="1.0.48" corepackage="False" steamworkshopid="3146954848" gameversion="1.6.19.1">
+  <Submarine file="%ModDir%/+Alicorn+2+.sub" />
+</contentpackage>
